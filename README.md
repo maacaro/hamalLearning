@@ -1,2 +1,2 @@
 # hamalLearning
-this Repo id for learnign porpuse only. 
+this Repo is for learnign porpuse only.
